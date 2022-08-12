@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nilandohnjosh" alt="nilandohnjosh" /></a> </p>
 
-- 🌱 I’m currently learning **React, TypeScript and learning more about SQL.**
+- 🌱 I’m currently learning **React, TypeScript and learning more about databases.**
 
 - 💬 Ask me about **who I am and what I am about.**
 
